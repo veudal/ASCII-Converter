@@ -17,7 +17,10 @@ Converts Gifs and Images (from Local files or Urls) in Text inside a console app
 
 - Fixing crashes sometimes when downloading URL Gif
 
+- More effecient RAM usage and clearing
+
 # Getting started
+
 - Start the download here and open the programm, if a warning pops up, then click on more Information" and then on execute anyways, this is because the programm has no certificate. If you do not trust it then you can use the code since it is Open Source :) 
 
 - You can now type an URL or a local path to an image or a gif and it will be displayed inside the console! 
