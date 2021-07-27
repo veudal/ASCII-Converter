@@ -6,13 +6,18 @@ Converts Gifs and Images from Local files or Urls in Text inside a console appli
 # Currently working on
 
 - Changing the size manually to any size
+
 - Improving loading time on high quality gifs
+
 - Fix bugs when resizing the console while gif is being played
+
 - Dont let the console minimize to much to prevent glitches.
 
 # Getting started
 - Start the download here and open the programm, if a warning pops up, then click on more Information" and then on execute anyways, this is because the programm has no certificate. If you do not trust it then you can use the code since it is Open Source :) 
+
 - You can now type an URL or a local path to an image or a gif and it will be displayed inside the console! 
+
 - Have Fun!
 
 ![image](https://user-images.githubusercontent.com/62218506/127154883-6ec73008-5fff-49ad-91b7-a4986fa65c56.png)
