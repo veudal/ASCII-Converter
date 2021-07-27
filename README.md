@@ -13,6 +13,8 @@ Converts Gifs and Images from Local files or Urls in Text inside a console appli
 
 - Dont let the console minimize to much to prevent glitches.
 
+- More support for not very powerful machines.
+
 # Getting started
 - Start the download here and open the programm, if a warning pops up, then click on more Information" and then on execute anyways, this is because the programm has no certificate. If you do not trust it then you can use the code since it is Open Source :) 
 
