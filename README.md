@@ -1,5 +1,5 @@
 # ASCII-Converter
-Converts Gifs and Images from Local files or Urls in Text inside a console application.
+Converts Gifs and Images (from Local files or Urls) in Text inside a console application.
 
 ![ezgif com-gif-maker (1)](https://user-images.githubusercontent.com/62218506/127154315-14b219fc-a5f7-48f2-b875-459f898988c1.gif)
 
