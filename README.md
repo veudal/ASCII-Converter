@@ -19,9 +19,7 @@ Converts Gifs and Images (from Local files or Urls) in Text inside a console app
 
 - Fix bugs when resizing the console while gif is being played.
 
-- Dont let the console minimize to much to prevent glitches.
-
-- Fixing crashes sometimes when downloading URL Gif.
+- Fixing crashes sometimes when downloading Gif from the Web.
 
 
 ## Done:
