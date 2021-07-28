@@ -3,7 +3,9 @@ Converts Gifs and Images (from Local files or Urls) in Text inside a console app
 
 ![ezgif com-gif-maker (1)](https://user-images.githubusercontent.com/62218506/127154315-14b219fc-a5f7-48f2-b875-459f898988c1.gif)
 
-# Currently working on
+# To-Do
+
+## Currently Working on:
 
 - Changing the size manually to any size
 
@@ -22,6 +24,18 @@ Converts Gifs and Images (from Local files or Urls) in Text inside a console app
 - Fixing delayed or too fast gifs.
 
 - Normal behavior for cursor instead of flackering
+
+## Done:
+
+- Adding Icon
+
+- Stopping give by hitting Enter
+
+- Support Gifs
+
+- Completly Loading Gif first before playing it to improove stability
+
+- Supporting URLs
 
 # Getting started
 
