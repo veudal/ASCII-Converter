@@ -15,32 +15,33 @@ Converts Gifs and Images (from Local files or Urls) in Text inside a console app
 
 ## Currently Working on:
 
-- Changing the size manually to any size
+- Changing the size (of the image or Gif) manually to any size.
 
-- Improving loading time on high quality gifs
-
-- Fix bugs when resizing the console while gif is being played
+- Fix bugs when resizing the console while gif is being played.
 
 - Dont let the console minimize to much to prevent glitches.
 
-- More support for not very powerful machines.
+- Fixing crashes sometimes when downloading URL Gif.
 
-- Fixing crashes sometimes when downloading URL Gif
-
-- More effecient RAM usage and clearing
-
-- Fixing delayed or too fast gifs.
-
-- Normal behavior for cursor instead of flackering
 
 ## Done:
 
-- Stopping Gif by hitting Enter
+- Normal behavior for cursor instead of flackering after resizing window.
 
-- Support Gifs
+- Improving loading time on high quality gifs.
 
-- Completly Loading Gif first before playing it to improove stability
+- More support for not very powerful machines.
 
-- Supporting URLs
+- Fixing delayed or too fast gifs.
+
+- More effecient RAM usage and clearing.
+
+- Stopping Gif by hitting Enter.
+
+- Support Gifs.
+
+- Completly Loading Gif first before playing it to improove stability.
+
+- Supporting URLs.
 
 ![image](https://user-images.githubusercontent.com/62218506/127154883-6ec73008-5fff-49ad-91b7-a4986fa65c56.png)
