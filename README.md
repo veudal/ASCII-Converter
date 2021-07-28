@@ -21,6 +21,7 @@ Converts Gifs and Images (from Local files or Urls) in Text inside a console app
 
 - Fixing crashes sometimes when downloading Gif from the Web.
 
+- Showing current time
 
 ## Done:
 
