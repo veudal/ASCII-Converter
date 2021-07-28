@@ -21,9 +21,9 @@ Converts Gifs and Images (from Local files or Urls) in Text inside a console app
 
 - Fixing crashes sometimes when downloading Gif from the Web.
 
-- Showing current time
-
 ## Done:
+
+- Showing current time
 
 - Normal behavior for cursor instead of flackering after resizing window.
 
@@ -39,7 +39,7 @@ Converts Gifs and Images (from Local files or Urls) in Text inside a console app
 
 - Support Gifs.
 
-- Completly Loading Gif first before playing it to improove stability.
+- Completly Loading Gif first before playing it to improve stability.
 
 - Supporting URLs.
 
