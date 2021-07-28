@@ -27,9 +27,7 @@ Converts Gifs and Images (from Local files or Urls) in Text inside a console app
 
 ## Done:
 
-- Adding Icon
-
-- Stopping give by hitting Enter
+- Stopping Gif by hitting Enter
 
 - Support Gifs
 
