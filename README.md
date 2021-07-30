@@ -3,7 +3,7 @@ Converts Gifs and Images (from Local files or Urls) in Text inside a console app
 
 ![ezgif com-gif-maker (1)](https://user-images.githubusercontent.com/62218506/127154315-14b219fc-a5f7-48f2-b875-459f898988c1.gif)
 
-# Getting started
+# Installation
 
 - Start the download [here](https://github.com/SagMeinenNamen/ASCII-Converter/raw/main/ASCII-Converter.exe) and open the programm, if a warning pops up, then click on more Information" and then on 'Run anyway', this happens because the programm has no certificate. If you do not trust it then you can use the code since it is Open Source :) 
 
