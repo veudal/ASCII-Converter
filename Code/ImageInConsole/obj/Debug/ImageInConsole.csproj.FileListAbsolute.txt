@@ -1,5 +1,0 @@
-C:\repos\ImageInConsole\ImageInConsole\bin\Debug\ImageInConsole.exe
-C:\repos\ImageInConsole\ImageInConsole\bin\Debug\ImageInConsole.pdb
-C:\repos\ImageInConsole\ImageInConsole\obj\Debug\ImageInConsole.csproj.CoreCompileInputs.cache
-C:\repos\ImageInConsole\ImageInConsole\obj\Debug\ImageInConsole.exe
-C:\repos\ImageInConsole\ImageInConsole\obj\Debug\ImageInConsole.pdb
