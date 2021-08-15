@@ -1,0 +1,6 @@
+C:\repos\ImageInConsole\ImageInConsole\bin\Release\ImageInConsole.exe
+C:\repos\ImageInConsole\ImageInConsole\bin\Release\ImageInConsole.pdb
+C:\repos\ImageInConsole\ImageInConsole\obj\Release\ImageInConsole.csproj.CoreCompileInputs.cache
+C:\repos\ImageInConsole\ImageInConsole\obj\Release\ImageInConsole.exe
+C:\repos\ImageInConsole\ImageInConsole\obj\Release\ImageInConsole.pdb
+C:\repos\ImageInConsole\ImageInConsole\obj\Release\ImageInConsole.csproj.AssemblyReference.cache
